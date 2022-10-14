@@ -1,1 +1,1 @@
-# Deconvolution_of_transcriptional_dynamics_of_hNeu
+Data, tables and the script reported here refer to the paper: Montaldo Elisa et al. "Cellular and transcriptional dynamics of human neutrophils at steady state and upon stress." Nature Immunology (2022): 1-14. Due to the complexity of the analysis that are performed at different levels (analytical and biological) the content of this directory is intended to be explanatory but not exhaustive. For more details and additional data/codes/tables feel free to contact me at my personal e-mail address you can find in the R-cript. 
